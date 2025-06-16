@@ -48,4 +48,6 @@ A separate interactive dashboard built in Power BI showcases different angles of
 
 ## Output
 All charts are automatically saved in the `visuals/` folder.
-Open the visuals/ folder to view the charts!
+Open the visuals/ folder to view the charts and snapshot of PowerBI Dashboard!
+Raw PowerBI Dashboard file (.pbix) and Python analysis notebook are both included in this repository.
+
